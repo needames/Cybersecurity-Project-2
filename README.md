@@ -3,10 +3,11 @@
 
 ## This presentation explains the following:
 
-1. vulnerabilities exploited of a Capstone VM
-2. analysis of data by viewing logs using Kibana
-3. proposed mitigation strategies.
-During this project, I acted as a hacker to infiltrate a machine. I also played the defensive security role by viewing logs and determining best practices to protect the system.
+1. Vulnerabilities exploited of a Capstone VM
+2. Analysis of data by viewing logs using Kibana
+3. Proposed mitigation strategies.
+
+During this project, I played the role of a hacker to infiltrate a machine. I also played the defensive security role by viewing logs and determining best practices to protect the system.
 
 
 
