@@ -19,4 +19,4 @@ During this project, I played the role of a hacker to infiltrate a machine. I al
 
 
 
-[id]: https://docs.google.com/presentation/d/1rjjrZWzrAlvQxAz2vAJ3OjxGD0bWv280lnzWe7boqm0/edit?usp=sharing
+[id]: https://docs.google.com/presentation/d/1rjjrZWzrAlvQxAz2vAJ3OjxGD0bWv280lnzWe7boqm0/edit#slide=id.g8798eb4c44_0_0
